@@ -1,7 +1,3 @@
-# ─────────────────────────────────────────
-# Arquivo: main.py
-# ─────────────────────────────────────────
-
 import player
 import door_factory
 
@@ -35,7 +31,6 @@ def main():
         strategy.execute(jogador)
     else:
         print("Porta inválida.")
-
 
 
 

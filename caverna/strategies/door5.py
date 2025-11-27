@@ -1,8 +1,3 @@
-# ─────────────────────────────────────────
-# Pasta: strategies/door5.py
-# ─────────────────────────────────────────
-
-
 from strategies.base import BaseDoorStrategy
 
 

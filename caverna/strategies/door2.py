@@ -1,8 +1,3 @@
-# ─────────────────────────────────────────
-# Pasta: strategies/door2.py
-# ─────────────────────────────────────────
-
-
 from strategies.base import BaseDoorStrategy
 import random
 
