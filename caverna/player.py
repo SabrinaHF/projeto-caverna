@@ -18,10 +18,10 @@ class Player:
 
     def roll_attributes(self):
         self.hp = random.randint(5, 15)
-        self.strength = random.randint(1, 10)
-        self.dex = random.randint(1, 10)
-        self.speed = random.randint(1, 10)
-        self.luck = random.randint(1, 10)
+        self.strength = random.randint(1, 20)
+        self.dex = random.randint(1, 20)
+        self.speed = random.randint(1, 20)
+        self.luck = random.randint(1, 20)
 
 
     def total(self):

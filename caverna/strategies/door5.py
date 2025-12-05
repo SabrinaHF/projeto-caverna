@@ -7,7 +7,7 @@ class Door5Strategy(BaseDoorStrategy):
         print("Um ser luminoso avalia sua alma e seus atributos…")
 
 
-        if player.total() >= 40:
+        if player.total() >= 60:
             print("Sua força interior é suficiente. Você é liberado com bênçãos!")
         else:
             print("Você ainda não está pronto. Volte quando for mais forte.")
